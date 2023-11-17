@@ -1,0 +1,30 @@
+{
+  "name": "tw-css-bookmark-website",
+  "version": "1.0.0",
+  "description": "a simple HTML, CSS and JavaScript application get familiar with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./css/styles.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAbdurahman/tw-css-bookmark-website.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "and",
+    "TailwindCSS"
+  ],
+  "author": "Mahdi Abdurrahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MAbdurahman/tw-css-bookmark-website/issues"
+  },
+  "homepage": "https://github.com/MAbdurahman/tw-css-bookmark-website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
