@@ -1,4 +1,4 @@
-# 00-tailwind-setup
+# tw-css-bookmark-website
 
 This is an application utilizing Tailwind CSS.  It is a simple setup to build projects and get familiarize with Tailwind CSS.
 
